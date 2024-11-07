@@ -1,2 +1,1 @@
-# -ed02_5
-Trabajo
+Contenido del archivo README
